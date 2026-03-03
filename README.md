@@ -54,7 +54,7 @@ Or create one via the [Google Cloud Console](https://console.cloud.google.com/st
 Create a `.env.local` file in the project root:
 
 ```bash
-cp .env.example .env.local
+cp env.example .env.local
 ```
 
 Update the values:
