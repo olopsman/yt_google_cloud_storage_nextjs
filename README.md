@@ -70,7 +70,7 @@ GOOGLE_APPLICATION_CREDENTIALS=/path/to/service-account-key.json
 Dependencies have already been installed, but if needed:
 
 ```bash
-npm install
+npm install @google-cloud/storage
 ```
 
 ### 5. Run the Development Server
